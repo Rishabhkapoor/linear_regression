@@ -1,5 +1,7 @@
 from numpy import *
 
+# y = mx + b
+# m is slope, b is y-intercept
 
 def compute_error_for_line_given_points(b, m , data):
     total_error = 0
