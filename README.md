@@ -1,5 +1,5 @@
 # Linear Regression
-This is the for linear regression with gradient descent.
+This is linear regression with gradient descent.
 
 ## Overview
 I'm using a small dataset of student test scores and the amount of hours they studied.The more you study, the better your test scores should be. We're going to use linear regression to prove this relationship.
